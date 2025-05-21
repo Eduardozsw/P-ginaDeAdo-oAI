@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pet Shop",
-  description: "O melhor pet shop para seu aumigo",
+  title: "ONG",
+  description: "A melhor ONG para encontrar seu aumigo",
 };
 
 export default function RootLayout({
